@@ -1,6 +1,6 @@
 [user]
-	email = yuan@znie.org
-	name = Zhangyuan Nie
+	email = wenxuan27@outlook.com
+	name = karmabadger
 [core]
 	autocrlf = input
 	excludesfile = /home/yuan/.config/git/global.gitignore

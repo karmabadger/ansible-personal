@@ -3,8 +3,8 @@
     - workstation-root
     - vscode
     - nvidia
-    - ffmpeg
+#    - ffmpeg
     - workstation-user
     - golang
-    - texlive
+#    - texlive
     - btrfs-devel

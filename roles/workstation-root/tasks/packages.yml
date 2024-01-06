@@ -47,7 +47,7 @@
       - libadwaita-devel
       - make
       - meson
-      - ffmpeg
+#      - ffmpeg
       - ImageMagick
       # rust
       - rust
